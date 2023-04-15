@@ -23,7 +23,7 @@ body {
 
 }
 .qr--image {
-    width: -webkit-fill-available;
+    width: 100%;
     border-radius: 15px;
 }
 h1{
